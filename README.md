@@ -22,7 +22,9 @@ Landing page moderna de una pizzería, diseñada con un enfoque visual atractivo
 
 ## 🚀 Cómo ver el proyecto
 
-1. Clona el repositorio:
+1. Clona el repositorio: `git clone https://github.com/erickdc7/gsap-animation-pizza.git`
+2. Entra en el proyecto: `cd gsap-animation-pizza`
+3. Instala las dependencias: `npm install`
+4. Inicia el servidor de desarrollo: `npm run dev`
 
-   ```bash
-   git clone https://github.com/erickdc7/gsap-animation-pizza.git
+   
